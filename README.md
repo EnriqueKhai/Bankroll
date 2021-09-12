@@ -2,7 +2,7 @@
 
 Excel calculator for financial independence/ planning. For a video demo, click [here](https://youtu.be/FQ4hxhnyl7w).
 
-![123](https://user-images.githubusercontent.com/42400406/132969165-85e21c95-4c53-4507-ab52-d0297abb7c20.png)
+![123](https://user-images.githubusercontent.com/42400406/132990551-aa272c6c-383f-4d7e-b19c-ebd0dfcf0104.png)
 
 # Overview
 
