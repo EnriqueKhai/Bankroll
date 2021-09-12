@@ -4,7 +4,7 @@ Excel calculator for financial independence/ planning. For a video demo, click h
 
 ![123](https://user-images.githubusercontent.com/42400406/132969165-85e21c95-4c53-4507-ab52-d0297abb7c20.png)
 
-# Overview.
+# Overview
 
 How much does one need to save each month to acheive financial independence? If I
 need `$1700` per month to retire now, how much is that in 40 years time? With
