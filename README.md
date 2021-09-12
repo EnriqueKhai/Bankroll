@@ -7,7 +7,7 @@ Excel calculator for financial independence/ planning. For a video demo, click h
 # Overview.
 
 How much does one need to save each month to acheive financial independence? If I
-need `$2000` per month to retire now, how much is that in 40 years time? With
+need `$1700` per month to retire now, how much is that in 40 years time? With
 `Bankroll`, all of these questions can be answered.
 
 Simply fill out key information
